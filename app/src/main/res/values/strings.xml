@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">my_show_flower</string>
+    <string name="flowerimage">flowerImage</string>
+    <string name="flowerphoto">flowerPhoto</string>
+    <string name="name">Name:</string>
+    <string name="id">Id:</string>
+    <string name="category">Category:</string>
+    <string name="price">Price:</string>
+    <string name="instruction">Instruction:</string>
+    <string name="reload">Reload</string>
+</resources>
